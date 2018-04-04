@@ -1,0 +1,20 @@
+[
+  {
+    "action": "remove",
+    "files": "README.md"
+  },
+  {
+    "action": "clone",
+    "src": "bloomberg/wsk.example"
+  },
+  {
+    "action": "remove",
+    "files": [
+      "build/tasks/sass",
+      "LICENSE",
+      "DCO.md",
+      "CHANGELOG.md",
+      "CONTRIBUTING.md"
+    ]
+  }
+]
