@@ -3,7 +3,7 @@ wsk.starter with rollup and stylus
 
 > A starter project using the wsk build system + rollup + stylus
 
-Install this using [degit](https://github.com/rich-harris/degit.git).
+Load this starter project using [degit](https://github.com/rich-harris/degit.git).
 
 ```sh
 mkdir myproject && cd myproject
